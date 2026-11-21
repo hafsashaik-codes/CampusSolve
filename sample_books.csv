@@ -1,0 +1,6 @@
+book_id,title,author,category,quantity
+B201,Computer Networks,Andrew Tanenbaum,Computer Science,4
+B202,Introduction to Algorithms,Thomas Cormen,Programming,3
+B203,Database Systems,Elmasri and Navathe,Database,5
+B204,Operating Systems,Abraham Silberschatz,Computer Science,2
+B205,Python Programming,John Zelle,Programming,6

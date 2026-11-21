@@ -1,0 +1,43 @@
+{
+    "books": [
+        {
+            "book_id": "B101",
+            "title": "Python Basics",
+            "author": "A. Kumar",
+            "category": "Programming",
+            "quantity": 5,
+            "available": 5
+        },
+        {
+            "book_id": "B102",
+            "title": "Data Structures",
+            "author": "R. Sharma",
+            "category": "Computer Science",
+            "quantity": 3,
+            "available": 3
+        },
+        {
+            "book_id": "B103",
+            "title": "Web Development",
+            "author": "S. Rao",
+            "category": "Technology",
+            "quantity": 4,
+            "available": 4
+        }
+    ],
+    "members": [
+        {
+            "member_id": "M101",
+            "name": "Ananya",
+            "department": "IT-A",
+            "phone": "9000000001"
+        },
+        {
+            "member_id": "M102",
+            "name": "Rahul",
+            "department": "CSE",
+            "phone": "9000000002"
+        }
+    ],
+    "loans": []
+}
